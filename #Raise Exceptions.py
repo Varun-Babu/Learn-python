@@ -1,7 +1,5 @@
 #Exceptions
 
-from tkinter import E
-
 
 class CircuitBreaker:
 
